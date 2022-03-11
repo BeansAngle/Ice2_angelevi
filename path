@@ -1,0 +1,8 @@
+
+1. user input username
+2. user input password
+    2.1 user did not put any special case
+    2.2 user did not put more than 8 letters
+    2.3 accepted
+3. Display username
+4. display password message
